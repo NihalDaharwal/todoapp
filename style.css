@@ -1,9 +1,14 @@
 .d1 {
  
+    text-align: center;
+
 }
 
-.outer {
+.outer{
+   display: flex; 
+   flex-direction: row;
 
+  justify-content: center;
 
 
 }

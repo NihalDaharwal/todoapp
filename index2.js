@@ -1,6 +1,3 @@
-//not used just for learning
-
-
 function submit() {
     //     var x = document.getElementById("itxt").value;
     //     document.getElementById("demo").innerHTML = x;
